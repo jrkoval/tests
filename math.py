@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# added a comment
+
 def mean(x):
     sum=0
     for num in x:
